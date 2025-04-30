@@ -1,0 +1,7 @@
+".classpath" 
+".project"
+"README.md"
+/bin/
+src/main/MainApp.java
+*.webp
+*.jpg
